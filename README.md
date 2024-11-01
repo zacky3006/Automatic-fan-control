@@ -41,6 +41,12 @@ DHT sensor library โดย Adafruit
 
 https://saharhaast.github.io/project-pc/
 
+
+# คลิปนำเสนอโปรเจกต์:
+
+https://www.youtube.com/watch?v=PoWUg93Yapc
+
+
 # สมาชิกภายในกลุ่ม:
 
 นายภัทร์สพล  ตั้งจรัสพณิชกุล  66070150
